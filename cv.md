@@ -23,3 +23,4 @@ Logistics manager since 2017.
 * Finnish (reading)
 * Spanish B1
 * Portuguese A2
+
