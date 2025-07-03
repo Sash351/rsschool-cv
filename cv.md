@@ -24,3 +24,4 @@ Logistics manager since 2017.
 * Spanish B1
 * Portuguese A2
 
+
