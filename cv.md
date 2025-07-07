@@ -7,10 +7,10 @@ I'm an international logistics manager. My responsibilities include coordinating
 * Windows OS
 * Adobe Photoshop
 ## Code example:
-``` 
+```
 function duplicateCount(text){
   //...
-} 
+}
 ```
 ## Education:
 Bachelor, Saint-Petersburg State University, Saint-Petersburg, Faculty of Economics.
@@ -23,5 +23,3 @@ Logistics manager since 2017.
 * Finnish (reading)
 * Spanish B1
 * Portuguese A2
-
-
